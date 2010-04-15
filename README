@@ -1,4 +1,4 @@
 
 http://github.com/divio/django-gsa
 
-utils/gsa_admin.py is copied from http://code.google.com/p/gsa-admin-toolkit/ 
+libs/gsa_admin.py is copied from http://code.google.com/p/gsa-admin-toolkit/ 
